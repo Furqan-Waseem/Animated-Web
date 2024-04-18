@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Animated-Web/static/css/main.c591c0fe.css",
+    "main.js": "/Animated-Web/static/js/main.f1ed8eab.js",
+    "static/media/seo.jpg": "/Animated-Web/static/media/seo.3c6da5cae6a8c6b31b14.jpg",
+    "static/media/aboutbanner.jpg": "/Animated-Web/static/media/aboutbanner.6fce148e4fc06e4b50d8.jpg",
+    "index.html": "/Animated-Web/index.html",
+    "main.c591c0fe.css.map": "/Animated-Web/static/css/main.c591c0fe.css.map",
+    "main.f1ed8eab.js.map": "/Animated-Web/static/js/main.f1ed8eab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c591c0fe.css",
+    "static/js/main.f1ed8eab.js"
+  ]
+}
